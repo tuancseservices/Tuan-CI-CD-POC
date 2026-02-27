@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="TestWeatherForecast/TestWeatherForecast.csproj" Id="99211c65-ce98-429b-8302-69e6418a7fd3" />
   <Project Path="WeatherForecastExample/WeatherForecastExample.csproj" />
 </Solution>
