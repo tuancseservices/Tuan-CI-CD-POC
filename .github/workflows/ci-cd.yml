@@ -34,7 +34,7 @@ jobs:
 
       # Restore dependencies
       - name: Restore dependencies
-        run: dotnet retore
+        run: dotnet restore
 
       # Build app
       - name: Build app
